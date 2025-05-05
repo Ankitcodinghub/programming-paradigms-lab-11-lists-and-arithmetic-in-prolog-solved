@@ -1,0 +1,1 @@
+# programming-paradigms-lab-11-lists-and-arithmetic-in-prolog-solved
